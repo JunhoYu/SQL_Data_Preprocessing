@@ -1,4 +1,4 @@
-#How to labet the Code
+
 #Label을 만드는 방법
 
 ##Data Table Example
@@ -19,7 +19,7 @@ VALUES
   , ('ID3', '2019-07-27', 3)
 ;
 
-#Change Code to Label
+
 #라벨링
 select 
 	id
